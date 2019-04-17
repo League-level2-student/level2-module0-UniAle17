@@ -1,6 +1,9 @@
-/* Paste the code into a new Processing sketch and complete the steps. */
+*/ Paste the code into a new Processing sketch and complete the steps. */
 
 //1. create an array of ints. don't initialize it yet.
+
+
+
 
 void setup() {
   //2. set the size of your window
